@@ -1,0 +1,63 @@
+h1 {
+  color: #ef6c34;
+  font-family: monospace;
+  font-size: 50px;
+}
+
+h2{
+  color: #fb7c28;
+  font-style: italic;
+  font-size: 30px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+}
+
+.name-img{
+  width: 600px;
+}
+.plant-img{
+  width: 300px;
+}
+
+.leftcontainer{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.hmcontainer{
+  display: flex;
+  justify-content: space-around;
+}
+
+.rightcontainer{
+  display: flex;
+  justify-content: flex-end;
+}
+
+body{
+  background-color: #dbebff;
+}
+p{
+   color: #6493aa;
+  font-size: 18px;
+  float:center;
+  font-family: monospace;
+}
+.center-text{
+  display: flex;
+  justify-content: center;
+   color: #fff68f;
+  font-size: 18px;
+  float:center;
+  font-family: monospace;
+}
+
+a{
+  color: #976d26;
+  font-size: 20px;
+  font-display: italic;
+  
+}
